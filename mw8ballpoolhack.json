@@ -1,0 +1,24 @@
+{
+  "name": "MW Cheat Hack 8 ballpool",
+  "identifier": "com.hama.repo",
+  "sourceURL": "لینکی_کۆتایی_ڕیپۆکەت_لێرە_دابنێ",
+  "apps": [
+    {
+      "name": "MW Cheat Hack 8 ballpool",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "version": "56.25.1",
+      "versionDate": "2026-06-11",
+      "size": 25000000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/7icqwzd18piv9pw2n0kkn/8-Ball-Pool_56.25.1.ipa?rlkey=ddmxtoiej700c12cq9d7zbpvx&st=ofw9d7e5&dl=0",
+      "developerName": "@RioEthan",
+      "localizedDescription": "MW v10.5 🔥
+
+Version 56.25.1 now available
+* Fixed Auto Play.
+* Errors can occur on shots that touch the ice on the table: Rome, Berlin, Osaka.
+* And the auto-queue game server will always detect continuous matchmaking behavior without any changes! If your account's win rate is too high, it will be matched with a hacker.\n\n🔑 MW-ENGINE-E1X8OQASD\n(Hold down to copy)",
+      "versionDescription": "V10.5",
+      "iconURL": "https://www.dropbox.com/scl/fi/wz2lsquurozl3b4t7jmh5/IMG_0656.jpeg?rlkey=l1pmjcqb26kv1x190xexrqauy&st=ceopkbql&dl=0"
+    }
+  ]
+}
